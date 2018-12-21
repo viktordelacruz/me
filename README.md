@@ -1,2 +1,2 @@
-#personal-site
+## personal-site
 My personal site. Keep getting better!
