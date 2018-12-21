@@ -37,7 +37,7 @@ class App extends Component {
             </a>
           </Card.Content>
           <Card.Content extra>
-            <a href="https://en.wikipedia.org/wiki/Bibingka" target="_top" rel="noopener noreferrer">
+            <a href="https://en.wikipedia.org/wiki/Bibingka" target="_blank" rel="noopener noreferrer">
               <Icon name='wikipedia w' />
              what is bibingka?
             </a>
