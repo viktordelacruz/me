@@ -10,13 +10,13 @@ class App extends Component {
           <Image src='https://scontent.fcrk1-1.fna.fbcdn.net/v/t1.0-9/33869011_2127309097284240_5423128425814556672_n.jpg?_nc_cat=108&_nc_ht=scontent.fcrk1-1.fna&oh=72bbd80e7d263f5fea4239895d3dcb44&oe=5CA69A94' size='medium' rounded />
           <Card.Content>
             <Card.Header>Viktor Dela Cruz</Card.Header>
-            <Card.Meta>
-              <i aria-hidden="true" class="location arrow icon"></i>
-              Metro Manila, Philippines
-            </Card.Meta>
             <Card.Description>
             Viktor is a software developer who enjoys playing computer games and eating bibingka.
             </Card.Description>
+          </Card.Content>
+          <Card.Content extra>
+            <i aria-hidden="true" class="location arrow icon"></i>
+              Metro Manila, Philippines
           </Card.Content>
           <Card.Content extra>
             <a href="https://www.linkedin.com/in/viktor-dela-cruz-776913118/" target="_blank"rel="noopener noreferrer">
